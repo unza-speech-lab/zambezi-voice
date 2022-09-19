@@ -1,0 +1,3 @@
+/storage/emulated/0/Documents/session_17.txt (line 1) ; /storage/emulated/0/ligaikuma/recordings/220829-120929_toi_0ae_elicit/220829-120929_toi_0ae_elicit_0.wav
+/storage/emulated/0/Documents/session_17.txt (line 2) ; /storage/emulated/0/ligaikuma/recordings/220829-120929_toi_0ae_elicit/220829-120929_toi_0ae_elicit_1.wav
+/storage/emulated/0/Documents/session_17.txt (line 3) ; /storage/emulated/0/ligaikuma/recordings/220829-120929_toi_0ae_elicit/220829-120929_toi_0ae_elicit_2.wav
