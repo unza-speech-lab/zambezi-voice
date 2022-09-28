@@ -1,0 +1,13 @@
+/storage/emulated/0/Documents/session_19.txt (line 17) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_16.wav
+/storage/emulated/0/Documents/session_19.txt (line 18) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_17.wav
+/storage/emulated/0/Documents/session_19.txt (line 19) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_18.wav
+/storage/emulated/0/Documents/session_19.txt (line 20) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_19.wav
+/storage/emulated/0/Documents/session_19.txt (line 21) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_20.wav
+/storage/emulated/0/Documents/session_19.txt (line 22) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_21.wav
+/storage/emulated/0/Documents/session_19.txt (line 23) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_22.wav
+/storage/emulated/0/Documents/session_19.txt (line 24) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_23.wav
+/storage/emulated/0/Documents/session_19.txt (line 25) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_24.wav
+/storage/emulated/0/Documents/session_19.txt (line 26) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_25.wav
+/storage/emulated/0/Documents/session_19.txt (line 27) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_26.wav
+/storage/emulated/0/Documents/session_19.txt (line 28) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_27.wav
+/storage/emulated/0/Documents/session_19.txt (line 29) ; /storage/emulated/0/ligaikuma/recordings/220829-205441_toi_0ae_elicit/220829-205441_toi_0ae_elicit_28.wav
