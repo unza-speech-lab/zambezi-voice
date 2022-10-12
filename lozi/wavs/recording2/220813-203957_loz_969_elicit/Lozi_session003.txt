@@ -13,7 +13,7 @@
 ## Lifolofolo za hana kakuli ne li saba kwena
 ##  Kwa mafelelezo kokoñu ya li:" Ni ta tusa haiba u lumela muhupulo wa ka
 ## " Muhupulo wa hao ki ufi?" pizi ya buza
-##  Kokoñu ya alaba ya li:" Lu nwe mezi kaufela a mwa lisa mo kuli lu kone ku bona kwena ni ku i bulaya
+ ##  Kokoñu ya alaba ya li:" Lu nwe mezi kaufela a mwa lisa mo kuli lu kone ku bona kwena ni ku i bulaya
 ## "Pizi ya li:" Kimulelo o munde
 ## "Mi za kala ku nwa mezi
 ## Kwena ye manyalu ha i bona se si ezahala ya zwa mwa lisa kapili-pili, mi ya landamanena kwa nuka ye ne li fa kaufi
@@ -29,7 +29,7 @@
 ##  Sa komoka hahulu kuli mane sa ya ku zona ku yo li buza ko li fumani mafufa a mande
 ##  Linyunywani za alaba za li: " Zamaya, u yo buza liba li ku bonise ko ku bulukwa mibala ye minde
 ## "Sipulumuki sa eza sina mo ne si bulelezwi mi sa kupa liba kuli a si base mibalabala ye minde
-## Liba la li:" Ni ta ku tusa
+## Liba la li:" Ni ta ku tusa 
 ##  Ha u bona tembwe(Nambwamutalati) mwa li-halimu u tahe kuna hape, mi ni ta ku isa kwa teñi
 ## "Kanako ye nwi, ha ku se ku ba ni tembwe mwa halimu
 ## sipulumuki sa kuta mi sa ya ni tumbombo ni bo-handatuti ba ba ne ba bata ku basiwa
@@ -47,4 +47,3 @@
 ## kono ne kuli cwalo ndatahe Manyando na tabela kuli mwan'a hae a kene sikolo,
 ## kakuli likomu li ta liswa ki Punga muhulwan'a Kamuyongole
 ## A mano kena sikolo ka 1936, Kamuyongole a kona ku fita mwa Standard Il ka 1941,
-## mi ka sona silimo seo bubeli bwa bashemi ba hae ba Iwela munda ha ba omboka mi ba bulaiwa ki mezi
