@@ -14,7 +14,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
 
 ## Status Report
 
-<div class="tg-wrap">
+<div class="tg-wrap" align="center">
   <table>
     <thead>
       <tr>
