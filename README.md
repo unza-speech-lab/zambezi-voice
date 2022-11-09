@@ -22,50 +22,66 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
       <tr>
         <th>Item</th>
         <th>Language</th>
+        <th>ISO 639-1 Codes</th>
         <th>Utterances</th>
         <th>Hours</th>
+        <th>Speakers</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td>1</td>
         <td>Nyanja</td>
+        <td>nya</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>2</td>
         <td>Lozi</td>
+        <td>loz</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>3</td>
         <td>Tonga</td>
+        <td>toi</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>4</td>
         <td>Bemba</td>
+        <td>bem</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>5</td>
         <td>Kikaonde</td>
+        <td>kqn</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>6</td>
         <td>Lunda</td>
+        <td>lun</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>7</td>
         <td>Luvale</td>
+        <td>lue</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
