@@ -14,6 +14,19 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
 
 ## Status Report
 
+<div class="tg-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Item</th>
+        <th>Language</th>
+        <th>Hours</th>
+        <th>Utterances</th>
+      </tr>
+    </thead>
+  </table>
+</div>
+
 ## Creators
 
   - [Claytone Sikasote](https://csikasote.github.io)
