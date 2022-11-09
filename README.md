@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The Zambezi Voice project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable the development of speech-based systems like speech recognition (ASR), machine translation (MT), speech-to-text translation for low-resourced Zambian languages.
+<div align="justify">
+<p>The Zambezi Voice project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable the development of speech-based systems like speech recognition (ASR), machine translation (MT), speech-to-text translation for low-resourced Zambian languages.</p>
+</div>
 
 ## Goal
 
