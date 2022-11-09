@@ -16,7 +16,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
 
 ## Creators
 
-  - Claytone Sikasote [Lead]
+  - [Claytone Sikasote](https://csikasote.github.io)
   - Stanly Mwape
   - Kalinda Siaminwe
   - Bangiwe Zulu
