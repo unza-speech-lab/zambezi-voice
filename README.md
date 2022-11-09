@@ -26,6 +26,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <th>Utterances</th>
         <th>Hours</th>
         <th>Speakers</th>
+        <th>Tasks</th>
       </tr>
     </thead>
     <tbody>
@@ -36,6 +37,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>ASR, MT, ST</td>
       </tr>
       <tr>
         <td>2</td>
@@ -44,6 +46,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>ASR, MT</td>
       </tr>
       <tr>
         <td>3</td>
@@ -52,6 +55,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>ASR, MT</td>
       </tr>
       <tr>
         <td>4</td>
@@ -60,6 +64,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>ASR, MT</td>
       </tr>
       <tr>
         <td>5</td>
@@ -68,6 +73,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>ASR, MT</td>
       </tr>
       <tr>
         <td>6</td>
@@ -76,6 +82,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>ASR, MT</td>
       </tr>
       <tr>
         <td>7</td>
@@ -84,6 +91,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>ASR, MT</td>
       </tr>
     </tbody>
   </table>
