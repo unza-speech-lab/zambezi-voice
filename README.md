@@ -8,7 +8,7 @@ The Zambezi Voice project is an on-going effort by the University of Zambia spee
 
 To build speech and language data resources that would enable development of speech and communication technologies as well as advance research for low-resourced Zambian language.
 
-## Target Languages
+## Languages
 For our long term goal, we want to create/gather resources for all seventy-two (72) languages spoken in Zambia. 
 In the immediate terms, we are focussing on the seven (7) main languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.
 
