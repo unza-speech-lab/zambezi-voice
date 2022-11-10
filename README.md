@@ -22,7 +22,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
       <tr>
         <th>Item</th>
         <th>Language</th>
-        <th>ISO 639-3 Codes</th>
+        <th>ISO 639-3</th>
         <th>Utterances</th>
         <th>Hours</th>
         <th>Speakers</th>
