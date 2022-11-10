@@ -101,7 +101,7 @@
   <p>*Last Updated: <strong>10/11/2022</strong></p>
 </div>
 
-## Creators
+## Team
 
   - [Claytone Sikasote](https://csikasote.github.io) - [Lead researcher/coordinator]
   - Stanly Mwape
