@@ -108,3 +108,6 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
 ## License
 The data contained herein are publicly available under the MIT License. See [LICENSE](https://github.com/unza-speech-lab/zambezi-voice/blob/main/LICENSE) for further details.
 
+## Contact
+
+Please feel free to drop us an email at `zambezivoice@gmail.com` if you would like to have a discussion on this work. We invite contributors!
