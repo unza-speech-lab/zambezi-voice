@@ -104,6 +104,7 @@
 ## Team
 
   - [Claytone Sikasote](https://csikasote.github.io) - [Lead researcher/coordinator]
+  - Mofya Phiri - Coordinator
   - Stanly Mwape
   - Kalinda Siaminwe
   - Bangiwe Zulu
