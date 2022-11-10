@@ -43,8 +43,8 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>2</td>
         <td>Lozi</td>
         <td>loz</td>
-        <td>-</td>
-        <td>-</td>
+        <td>1539</td>
+        <td>4</td>
         <td>-</td>
         <td>ASR, MT</td>
       </tr>
@@ -52,8 +52,8 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
         <td>3</td>
         <td>Tonga</td>
         <td>toi</td>
-        <td>-</td>
-        <td>-</td>
+        <td>2229</td>
+        <td>5</td>
         <td>-</td>
         <td>ASR, MT</td>
       </tr>
