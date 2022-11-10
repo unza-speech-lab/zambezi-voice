@@ -105,11 +105,11 @@
 
   - [Claytone Sikasote](https://csikasote.github.io) - [Lead researcher/coordinator]
   - Mofya Phiri - Coordinator/Advisor
-  - Mayumbo Nyirenda - Advisor
   - Stanly Mwape
   - Kalinda Siaminwe
   - Bangiwe Zulu
   - Godfrey Mkandawire
+  - Dr. Mayumbo Nyirenda - Advisor
 
 ## License
 The data contained herein are publicly available under the MIT License. See [LICENSE](https://github.com/unza-speech-lab/zambezi-voice/blob/main/LICENSE) for further details.
