@@ -17,7 +17,6 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
 ## Status Report
 
 <div class="tg-wrap" align="left">
-  <p>Last Updated: 10/11/2022</p><br>
   <table>
     <thead>
       <tr>
@@ -96,6 +95,7 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
       </tr>
     </tbody>
   </table>
+  <p>*Last Updated: <strong>10/11/2022</strong></p>
 </div>
 
 ## Creators
