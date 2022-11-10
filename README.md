@@ -103,7 +103,7 @@
 
 ## Creators
 
-  - [Claytone Sikasote](https://csikasote.github.io) - [Lead researcher]
+  - [Claytone Sikasote](https://csikasote.github.io) - [Lead researcher/coordinator]
   - Stanly Mwape
   - Kalinda Siaminwe
   - Bangiwe Zulu
