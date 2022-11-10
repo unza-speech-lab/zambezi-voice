@@ -105,5 +105,6 @@ In the immediate terms, we are focussing on the seven (7) main languages spoken 
   - Bangiwe Zulu
   - Godfrey Mkandawire
 
-
+## License
+The data contained herein are publicly available under the MIT License. See LICENSE for further details.
 
