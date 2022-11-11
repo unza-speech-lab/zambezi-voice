@@ -48,7 +48,7 @@
         <td>Nyanja</td>
         <td>nya</td>
         <td>-</td>
-        <td>-</td>
+        <td>15</td>
         <td>-</td>
         <td>ASR, MT, ST</td>
       </tr>
