@@ -8,9 +8,19 @@
 
 ## Goal
 <div align="justify">
-  <p> To build speech and language data resources that would enable development of speech and communication technologies as well as advance research for low-resourced Zambian language.</p>
+  <p> To build speech and language data resources for under-resourced languages of Zambia that will:.</p>
 </div>
 
+  - enable development of speech and language technologies like:
+    - Automatic Speech Recognition (ASR)
+    - Machine Translation (MT)
+    - Speech-To-Text Translation
+    - Multilingual Speech & Language Processing Task
+       
+   which presently are currently practivcally unavailable, or useless due to extreme data-scarce setting.
+   
+  - serve as benchmark for academic and industry tools. We will create training/development/test splits for all task in consideration.
+    
 ## Languages
 
 <div align="justify">
