@@ -32,7 +32,6 @@
 /storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents/session_20.txt (line 32) ; /storage/emulated/0/aikuma/recordings/221101-141218_nya_394_elicit/221101-141218_nya_394_elicit_31.wav
 /storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents/session_20.txt (line 33) ; /storage/emulated/0/aikuma/recordings/221101-141218_nya_394_elicit/221101-141218_nya_394_elicit_32.wav
 /storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents/session_20.txt (line 34) ; /storage/emulated/0/aikuma/recordings/221101-141218_nya_394_elicit/221101-141218_nya_394_elicit_33.wav
-/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents/session_20.txt (line 35) ; /storage/emulated/0/aikuma/recordings/221101-141218_nya_394_elicit/221101-141218_nya_394_elicit_34.wav
 /storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents/session_20.txt (line 36) ; /storage/emulated/0/aikuma/recordings/221101-141218_nya_394_elicit/221101-141218_nya_394_elicit_35.wav
 /storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents/session_20.txt (line 37) ; /storage/emulated/0/aikuma/recordings/221101-141218_nya_394_elicit/221101-141218_nya_394_elicit_36.wav
 /storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents/session_20.txt (line 38) ; /storage/emulated/0/aikuma/recordings/221101-141218_nya_394_elicit/221101-141218_nya_394_elicit_37.wav
