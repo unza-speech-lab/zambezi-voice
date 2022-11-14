@@ -49,8 +49,8 @@
         <td>1</td>
         <td>Nyanja</td>
         <td>nya</td>
-        <td>6413</td>
-        <td>15</td>
+        <td>9126</td>
+        <td>20</td>
         <td>10</td>
         <td>3</td>
         <td>7</td>
@@ -61,7 +61,7 @@
         <td>Lozi</td>
         <td>loz</td>
         <td>1539</td>
-        <td>4</td>
+        <td>4.5</td>
         <td>5</td>
         <td>3</td>
         <td>2</td>
@@ -73,7 +73,7 @@
         <td>toi</td>
         <td>2229</td>
         <td>5</td>
-        <td>4.5</td>
+        <td>4</td>
         <td>2</td>
         <td>2</td>
         <td>ASR, MT</td>
