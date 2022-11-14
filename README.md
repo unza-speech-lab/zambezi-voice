@@ -39,6 +39,8 @@
         <th>Utterances</th>
         <th>Hours</th>
         <th>Speakers</th>
+        <th>Male</th>
+        <th>Female</th>
         <th>Tasks</th>
       </tr>
     </thead>
@@ -49,7 +51,9 @@
         <td>nya</td>
         <td>6413</td>
         <td>15</td>
-        <td>-</td>
+        <td>10</td>
+        <td>3</td>
+        <td>7</td>
         <td>ASR, MT, ST</td>
       </tr>
       <tr>
@@ -58,7 +62,9 @@
         <td>loz</td>
         <td>1539</td>
         <td>4</td>
-        <td>-</td>
+        <td>5</td>
+        <td>3</td>
+        <td>2</td>
         <td>ASR, MT</td>
       </tr>
       <tr>
@@ -67,13 +73,17 @@
         <td>toi</td>
         <td>2229</td>
         <td>5</td>
-        <td>-</td>
+        <td>4</td>
+        <td>2</td>
+        <td>2</td>
         <td>ASR, MT</td>
       </tr>
       <tr>
         <td>4</td>
         <td>Bemba</td>
         <td>bem</td>
+        <td>-</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -86,12 +96,16 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>-</td>
+        <td>-</td>
         <td>ASR, MT</td>
       </tr>
       <tr>
         <td>6</td>
         <td>Lunda</td>
         <td>lun</td>
+        <td>-</td>
+        <td>-</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -104,6 +118,8 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
+        <td>-</td>
+        <td>-</td>
         <td>ASR, MT</td>
       </tr>
     </tbody>
@@ -113,7 +129,7 @@
 
 ## Team
 
-  - [Claytone Sikasote](https://csikasote.github.io) - [Lead researcher/coordinator]
+  - [Claytone Sikasote](https://csikasote.github.io) - [Lead Researcher/Coordinator]
   - Mofya Phiri - Coordinator/Advisor
   - Stanly Mwape
   - Kalinda Siaminwe
