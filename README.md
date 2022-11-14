@@ -34,7 +34,7 @@
     <thead>
       <tr>
         <th>Item</th>
-        <th>Language</th>
+        <th>Lang</th>
         <th>ISO 639-3</th>
         <th>Utterances</th>
         <th>Hours</th>
