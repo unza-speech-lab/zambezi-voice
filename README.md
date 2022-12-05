@@ -62,10 +62,10 @@
         <td>2</td>
         <td>Lozi</td>
         <td>loz</td>
-        <td>1539</td>
+        <td>1853</td>
         <td>4.5</td>
-        <td>5</td>
-        <td>3</td>
+        <td>4</td>
+        <td>2</td>
         <td>2</td>
         <td>ASR, MT</td>
       </tr>
