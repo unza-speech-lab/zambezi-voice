@@ -37,7 +37,7 @@
       <tr>
         <th>Item</th>
         <th>Lang</th>
-        <th>ISO 639-3</th>
+        <th>Code</th>
         <th>Files</th>
         <th>Hours</th>
         <th>Speakers</th>
