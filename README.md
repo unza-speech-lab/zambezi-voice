@@ -1,4 +1,4 @@
-# Zambezi Voice
+# Zambezi Voice : Multilingual Speech Corpora for Zambiuan Languages
 
 ## Introduction
 
