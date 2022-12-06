@@ -21,7 +21,7 @@
    
   - serve as benchmark for academic and industry tools. We will create training/development/test splits for all task in consideration.
     
-##@ Languages
+### Languages
 
 <div align="justify">
   <p>For our long term goal, we want to create/gather resources for all seventy-two (72) languages spoken in Zambia. In the immediate terms, we are focussing on the seven (7) main languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
@@ -142,5 +142,5 @@
 ### Contact
 Please feel free to drop us an email at `zambezivoice@gmail.com` if you would like to have a discussion on this work. We invite contributors!
 
-## License
+### License
 The data contained herein are publicly available under the MIT License. See [LICENSE](https://github.com/unza-speech-lab/zambezi-voice/blob/main/LICENSE) for further details.
