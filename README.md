@@ -51,7 +51,7 @@
         <td>1</td>
         <td>Nyanja</td>
         <td>nya</td>
-        <td>9126</td>
+        <td>9127</td>
         <td>20</td>
         <td>10</td>
         <td>3</td>
@@ -73,7 +73,7 @@
         <td>3</td>
         <td>Tonga</td>
         <td>toi</td>
-        <td>2229</td>
+        <td>2053</td>
         <td>5</td>
         <td>6</td>
         <td>4</td>
