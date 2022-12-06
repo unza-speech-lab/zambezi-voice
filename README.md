@@ -52,8 +52,8 @@
         <td>Nyanja</td>
         <td>nya</td>
         <td>9127</td>
-        <td>20</td>
-        <td>10</td>
+        <td>25</td>
+        <td>12</td>
         <td>3</td>
         <td>7</td>
         <td>ASR, MT, ST</td>
