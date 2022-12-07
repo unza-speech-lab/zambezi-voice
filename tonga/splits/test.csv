@@ -6,12 +6,12 @@ audio_id	sentence	BitsPerSample	durationMsec	sampleRate	speaker_gender	speaker_b
 220912-145955_toi_707_elicit_9	lwiindi wakazyalwa iyalwiindi lutaindwi panda nakuweza mwanaa muntu muwezi 	16	9982	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_10	nacibanga ngowakatalika cilengwa cakubangwa ku njola nkokwakali kuyolelwa mafuwa 	16	9642	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_12	ku namwala bbwe lyamwala talibonwi ku kalonga nkokwakamanina banta kulonga 	16	10050	16000	Female	1999	christabel mutinta Luundu	toi
-220912-145955_toi_707_elicit_14	ku chalimbana nkokuli milonga nkwilimbène lakomena luumbo iwabampile ku luumbo 	16	10277	16000	Female	1999	christabel mutinta Luundu	toi
+220912-145955_toi_707_elicit_14	ku chalimbana nkokuli milonga nkwilimbene lakomena luumbo iwabampile ku luumbo 	16	10277	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_15	mu choma mumwa chooma mwaali kabucesya cooma kacidima 	16	10731	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_16	djombe zyavula mucisi akaambo kabantu bavula kapati kwiinda kaindi 	16	6715	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_17	muntu omwe omwe uukwete ulayanda kuba abasune bakulimya ampwizi zyakukama 	16	11275	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_18	ncotujana ncakuti bwizu bwanombe tabuko nombe mafuwa aalo akaambo kakubula cakulya 	16	14043	16000	Female	1999	christabel mutinta Luundu	toi
-220912-145955_toi_707_elicit_19	cinga cilagwasya mbuli mbotwaamba kale mu cibalo 15 nkutalika zimbi mpindu 	16	9324	16000	Female	1999	christabel mutinta Luundu	toi
+220912-145955_toi_707_elicit_19	cinga cilagwasya mbuli mbotwaamba kale mu cibalo fifitini nkutalika zimbi mpindu 	16	9324	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_20	tutabi balimi abavubi banjombe toonse syokwe lyapya nombe zilabula bwizu bwakucela 	16	13068	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_21	bwizu buli sun tabukutyi njombe pe nkakaambo kaako kunyina bategwa mbasune kuli buyo tusune 	16	10958	16000	Female	1999	christabel mutinta Luundu	toi
 220912-145955_toi_707_elicit_23	kayi inga nzala takajaya syokwe lyapya miisamu bana babanyama abana babayuni balapidilizya 	16	14134	16000	Female	1999	christabel mutinta Luundu	toi
@@ -41,40 +41,40 @@ audio_id	sentence	BitsPerSample	durationMsec	sampleRate	speaker_gender	speaker_b
 220906-211510_toi_707_elicit_5	bumwi buzuba banyama boonse bakabungana kuti bakanane twaambo tumwi 	16	5240	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_6	sicuuno wakati muzovu banyama boonse bakali kumuyoowa 	16	5649	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_7	eelyo kanyama kakasika kumamanino kakali nkaanga sulwe 	16	5558	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_8	sulwe wakalijisi keembe kabotu_ nkujana banyama nibakakabona keembe aaka bakayandisya kuti bakalangisye 	16	9642	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_8	sulwe wakalijisi keembe kabotu nkujana banyama nibakakabona keembe aaka bakayandisya kuti bakalangisye 	16	9642	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_10	kuti bakalosye ansi ndabauma nibakamana kulanga muswaangano waka talika 	16	6602	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_11	makani manji manji akakakananwa pele kwakalangika kuti nondo tanaakali kuteelela caka iikwaambwa 	16	7917	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_12	meso akwe akali kukeembe kokwa suiwe 	16	3607	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_13	mbuwakamanina biyo muswaangano na ndi wakaunka kuli sulwe kuti alangisye keembe 	16	6624	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_13	mbuwakamanina biyo muswaangano nandi wakaunka kuli sulwe kuti alangisye keembe 	16	6624	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_14	iwe cana nondo koya hena ukalosezye ansi wakaamba suiwe 	16	5603	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_16	sicuuno wakati muzovu banyama boonse bakali kumuyoowa 	16	4015	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_17	eelyo kanyama kakasika kumamanino kakali nkaanga sulwe 	16	3471	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_19	aalya sulwe wakasoleka kubakasya pele muzovu wakati pe cilombwana kobaabila biyo beenzinyoko bala nge 	16	8757	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_19	aalya sulwe wakasoleka kubakasya pele muzovu wakati pe cilombwana kobaabila biyo beenzinyoko balange 	16	8757	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_20	kuti bakalosye ansi ndabauma nibakamana kulanga muswaangano waka talika 	16	6193	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_21	makani manji manji akakakananwa pele kwakalangika kuti nondo tanaakali kuteelela caka iikwaambwa 	16	7895	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_22	meso akwe akali kukeembe kokwa suiwe 	16	3130	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_23	mbuwakamanina biyo muswaangano na ndi wakaunka kuli sulwe kuti alangisye keembe 	16	5739	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_23	mbuwakamanina biyo muswaangano nandi wakaunka kuli sulwe kuti alangisye keembe 	16	5739	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_24	iwe cana nondo koya hena ukalosezye ansi wakaamba suiwe nondo wakati inga sulwe kolangilizya bantu balaamunyono me mwanaa munene nsili boobo pe 	16	16357	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_25	sulwe wakatambika keembe kuli nondo akwaamba kuti nkooko kolanga langa njanda kweenda ndaamilirno kumunzi 	16	10164	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_26	nondo wakabuzya akwaamba kuti hena tee ninzila yomwe kai inga tatweendi iimwi hena mboobona maulu kufwiimpa oti inga wandi siya 	16	11616	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_28	macu omweenzuma mwa ti sunu tunakumena mate buya koinda kumbele we tubone 	16	7169	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_28	macu omweenzuma mwati sunu tunakumena mate buya koinda kumbele we tubone 	16	7169	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_29	kumucita bobo sulwe wakainda kumbele 	16	3062	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_30	nciinga nondo noceenda cal myoyo njibili 	16	3743	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_31	ca kalizyi kuti catija akeembe sulwe uya kuceenzya 	16	3834	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_30	nciinga nondo noceenda calo myoyo njibili 	16	3743	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_31	cakalizyi kuti catija akeembe sulwe uya kuceenzya 	16	3834	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_32	aboobo cakatalika kuyandaula bwina mocakali kukonzya kunjila 	16	4923	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_33	inga ba sulwe nkacebe nku bona nciinga nondo nceciya cinjila mubwina 	16	6080	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_33	inga ba sulwe nkacebe nkubona nciinga nondo nceciya cinjila mubwina 	16	6080	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_34	akaka sulwe ati asole kujata mwiini wakeembe myoo cakamaninina kunjila nciinga nondo 	16	6874	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_35	waka talike kuuma cisalu kumwi kavwukaula cisisi camulilo munsi abwina 	16	6420	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_36	nondo naakabona cimwe ka alimwi akurnvwa cizuma wakayeeya kuti antela nirnywula izuma antoomwe akulaba 	16	8712	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_36	nondo naakabona cimweka alimwi akurnvwa cizuma wakayeeya kuti antela nirnywula izuma antoomwe akulaba 	16	8712	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_37	eeiyo wakayeeya kuti ulielede kuzwa akuya kuyandaula bowa 	16	4560	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_38	wakazwida anze kumwi kajisi akeembe aluwezo 	16	3720	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_39	sulwe naakabona kuti nondo wayunina wakayuba eelyo naakazwa wakamujata akwaa mba kuti iwe cana ndakupwaila kazinga nko tana wide kuzwa nookazyalwa 	16	14043	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_39	sulwe naakabona kuti nondo wayunina wakayuba eelyo naakazwa wakamujata akwaamba kuti iwe cana ndakupwaila kazinga nko tana wide kuzwa nookazyalwa 	16	14043	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_40	ino ncinzi cabija mweenzuma nondo wakabuzya 	16	3357	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_41	ocuuka iwe ncinzi buti walikukatola kuli keembe kangu akeembe aka nkakena sunu ndu unyongola mutwe wako 	16	10005	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_41	cuuka iwe ncinzi buti walikukatola kuli keembe kangu akeembe aka nkakena sunu nduunyongola mutwe wako 	16	10005	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_42	mbwakaamba sulwe cakunyema nondo wakalikombelezya akwaamba kuti inga komena mate sulwe ndalikuya kukunywa meenda kung anda yangu kunyina nkundaiikuya pe mweenzuma 	16	13635	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_44	nondo wakalisekela ha ha ha abbwe ime nsefwipe kuti koyanda kuti mfwe weelede kun dinyikizya mumeenda 	16	10731	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_45	sulwe asuntwe bakanyamuka kabaya kukuswaya kumakwe asulwe 	16	5671	16000	Female	1999	christabel mutinta Luundu	toi
-220906-211510_toi_707_elicit_47	aalya nkaanga munsanje kakamubuzya mween zinyina suntwe kuti alibande izina iyakwe lyabulombwana 	16	8712	16000	Female	1999	christabel mutinta Luundu	toi
+220906-211510_toi_707_elicit_47	aalya nkaanga munsanje kakamubuzya mweenzinyina suntwe kuti alibande izina iyakwe lyabulombwana 	16	8712	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_48	suntwe wakati ndakomena ndecilombwa na 	16	2926	16000	Female	1999	christabel mutinta Luundu	toi
 220906-211510_toi_707_elicit_49	ndakalanduka mulonga wa nakanyanja ndime tom mebo entayoowi muntu umuntuka mbwaakalibanda suntwe oobo 	16	11616	16000	Female	1999	christabel mutinta Luundu	toi
 220903-202609_toi_707_elicit_0	oku nkokuti ilawa cirnwi ciindi buzuba boonse kuzwa cifumolumo kusikila kumazuba 	16	10277	16000	Female	1999	christabel mutinta Luundu	toi
@@ -128,7 +128,7 @@ audio_id	sentence	BitsPerSample	durationMsec	sampleRate	speaker_gender	speaker_b
 220907-085934_toi_707_elicit_18	nkweeba busiku koona nguvululu rayi aabo tubaita kuti 	16	7328	16000	Female	1999	christabel mutinta Luundu	toi
 220907-085934_toi_707_elicit_19	ni mbona busiku bakoofwaala balanzya bbayibayi bamwi matriinga akasinka kale 	16	7554	16000	Female	1999	christabel mutinta Luundu	toi
 220907-085934_toi_707_elicit_21	mumaanu bali mbuli tuntolo tumimita lyoonse acilimo yumuka akamimitule maanu 	16	9664	16000	Female	1999	christabel mutinta Luundu	toi
-220907-085934_toi_707_elicit_22	utakabuzi kuti neinzi ciya kucitika mwakali ükabuzye boobu 	16	6443	16000	Female	1999	christabel mutinta Luundu	toi
+220907-085934_toi_707_elicit_22	utakabuzi kuti neinzi ciya kucitika mwakali ukabuzye boobu 	16	6443	16000	Female	1999	christabel mutinta Luundu	toi
 220907-085934_toi_707_elicit_23	nomwakacili bana mbaani bakali bapati banu mwakali kukala kuli 	16	5036	16000	Female	1999	christabel mutinta Luundu	toi
 220907-085934_toi_707_elicit_24	aimwi mibuzyo yakaindi kasimpe ciya kwakali muntu mutolo wabatolo mucisi ca katimba 	16	9778	16000	Female	1999	christabel mutinta Luundu	toi
 220907-085934_toi_707_elicit_25	butolo bwakwe bwakalibonya ucili mwana musyoonto 	16	4151	16000	Female	1999	christabel mutinta Luundu	toi
@@ -316,7 +316,7 @@ audio_id	sentence	BitsPerSample	durationMsec	sampleRate	speaker_gender	speaker_b
 220903-234119_toi_707_elicit_9	nkokuti kwii ngula lino nsiyandi kumwaambila tulabiko tunji nee ndilaamba buyo tuli kumi 	16	8938	16000	Female	1999	christabel mutinta Luundu	toi
 220903-234119_toi_707_elicit_10	gandapati ngomwezi nokuli mpeyo kapati alyalo izyina lilalitondezya kuti impeyo nkwiili 	16	10005	16000	Female	1999	christabel mutinta Luundu	toi
 220903-234119_toi_707_elicit_11	zintu zicitika mu gandapati tazili zinji kapati 	16	4923	16000	Female	1999	christabel mutinta Luundu	toi
-220903-234119_toi_707_elicit_13	kalekale nokwatakalina sika makuwa bans basimbi abasankwa bakali kuyaka twaanda twabwizu kumbo amunzi twakali kwiitwa kuti 4mantombwa 	16	16380	16000	Female	1999	christabel mutinta Luundu	toi
+220903-234119_toi_707_elicit_13	kalekale nokwatakalina sika makuwa bans basimbi abasankwa bakali kuyaka twaanda twabwizu kumbo amunzi twakali kwiitwa kuti mantombwa 	16	16380	16000	Female	1999	christabel mutinta Luundu	toi
 220903-234119_toi_707_elicit_14	basimbi bakali kujika nsima ciindi cakurnazuba kwalo abalo basankwa bakali kujaya hayuni kuti cibe cilisyo 	16	10980	16000	Female	1999	christabel mutinta Luundu	toi
 220903-234119_toi_707_elicit_16	pesi twausa kuti lino lyaasika zikolo tatujisi ciindi cakuteya tuyuni kuti tujane cilisyo akuleka kuya kucikolo 	16	12069	16000	Female	1999	christabel mutinta Luundu	toi
 220903-234119_toi_707_elicit_17	cikolo ano mazuba ncibotu kwiinda zintu zyoonse ezi 	16	5739	16000	Female	1999	christabel mutinta Luundu	toi
