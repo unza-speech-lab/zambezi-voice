@@ -73,7 +73,7 @@
         <td>3</td>
         <td>Tonga</td>
         <td>toi</td>
-        <td>2053</td>
+        <td>2070</td>
         <td>5</td>
         <td>6</td>
         <td>4</td>
