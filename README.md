@@ -59,6 +59,17 @@
         <td>ASR, MT, ST</td>
       </tr>
       <tr>
+        <td>3</td>
+        <td>Tonga</td>
+        <td>toi</td>
+        <td>4208</td>
+        <td>10</td>
+        <td>9</td>
+        <td>7</td>
+        <td>2</td>
+        <td>ASR, MT</td>
+      </tr>
+      <tr>
         <td>2</td>
         <td>Lozi</td>
         <td>loz</td>
@@ -66,17 +77,6 @@
         <td>4.5</td>
         <td>4</td>
         <td>2</td>
-        <td>2</td>
-        <td>ASR, MT</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>Tonga</td>
-        <td>toi</td>
-        <td>2070</td>
-        <td>5</td>
-        <td>6</td>
-        <td>4</td>
         <td>2</td>
         <td>ASR, MT</td>
       </tr>
@@ -133,10 +133,6 @@
 
   - [Claytone Sikasote](https://csikasote.github.io) - [Lead Researcher/Coordinator]
   - Mofya Phiri - Coordinator/Advisor
-  - Stanly Mwape
-  - Kalinda Siaminwe
-  - Bangiwe Zulu
-  - Godfrey Mkandawire
   - Dr. Mayumbo Nyirenda - Advisor
 
 ### Contact
