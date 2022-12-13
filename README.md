@@ -62,11 +62,11 @@
         <td>3</td>
         <td>Tonga</td>
         <td>toi</td>
-        <td>4208</td>
-        <td>10</td>
+        <td>5043</td>
+        <td>12</td>
         <td>9</td>
-        <td>7</td>
-        <td>2</td>
+        <td>5</td>
+        <td>4</td>
         <td>ASR, MT</td>
       </tr>
       <tr>
