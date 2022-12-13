@@ -132,7 +132,7 @@
 ### Team
 
   - [Claytone Sikasote](https://csikasote.github.io) - [Lead Researcher/Coordinator]
-  - Mofya Phiri - Coordinator/Advisor
+  - Mofya Phiri - Coordinator
   - Dr. Mayumbo Nyirenda - Advisor
 
 ### Contact
