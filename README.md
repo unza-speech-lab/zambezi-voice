@@ -67,7 +67,7 @@
         <td>9</td>
         <td>5</td>
         <td>4</td>
-        <td>ASR, MT</td>
+        <td>ASR</td>
       </tr>
       <tr>
         <td>2</td>
@@ -78,7 +78,7 @@
         <td>4</td>
         <td>2</td>
         <td>2</td>
-        <td>ASR, MT</td>
+        <td>ASR</td>
       </tr>
       <tr>
         <td>4</td>
@@ -89,7 +89,7 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td>ASR, MT</td>
+        <td>ASR</td>
       </tr>
       <tr>
         <td>5</td>
@@ -100,7 +100,7 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td>ASR, MT</td>
+        <td>ASR</td>
       </tr>
       <tr>
         <td>6</td>
@@ -111,7 +111,7 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td>ASR, MT</td>
+        <td>ASR</td>
       </tr>
       <tr>
         <td>7</td>
@@ -122,11 +122,11 @@
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td>ASR, MT</td>
+        <td>ASR</td>
       </tr>
     </tbody>
   </table>
-  <p>*Last Updated: <strong>10/11/2022</strong></p>
+  <p>*Last Updated: <strong>12/13/2022</strong></p>
 </div>
 
 ### Team
