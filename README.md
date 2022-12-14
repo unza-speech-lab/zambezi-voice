@@ -62,8 +62,8 @@
         <td>3</td>
         <td>Tonga</td>
         <td>toi</td>
-        <td>5043</td>
-        <td>12</td>
+        <td>6544</td>
+        <td>15</td>
         <td>9</td>
         <td>5</td>
         <td>4</td>
