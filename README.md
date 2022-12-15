@@ -62,8 +62,8 @@
         <td>3</td>
         <td>Tonga</td>
         <td>toi</td>
-        <td>5043</td>
-        <td>12</td>
+        <td>6544</td>
+        <td>15</td>
         <td>9</td>
         <td>5</td>
         <td>4</td>
@@ -136,7 +136,7 @@
   - Dr. Mayumbo Nyirenda - Advisor
 
 ### Contact
-Please feel free to drop us an email at `zambezivoice@gmail.com` if you would like to have a discussion on this work. We invite contributors!
+Please feel free to drop us an email at `zambezivoice@gmail.com` or `claytonsikasote@gmail.com` if you would like to have a discussion on this work. We invite contributors!
 
 ### License
 The data contained herein are publicly available under the MIT License. See [LICENSE](https://github.com/unza-speech-lab/zambezi-voice/blob/main/LICENSE) for further details.
