@@ -131,9 +131,9 @@
 
 ### Team
 
-  - [Claytone Sikasote](https://csikasote.github.io) - [Lead Researcher/Coordinator]
-  - Mofya Phiri - Coordinator
-  - Dr. Mayumbo Nyirenda - Advisor
+  - [Claytone Sikasote](https://csikasote.github.io) - [Lead Researcher]
+  - Mofya Phiri 
+  - Dr. Mayumbo Nyirenda 
 
 ### Contact
 Please feel free to drop us an email at `zambezivoice@gmail.com` or `claytonsikasote@gmail.com` if you would like to have a discussion on this work. We invite contributors!
