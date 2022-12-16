@@ -15,16 +15,13 @@
     - Automatic Speech Recognition (ASR)
     - Machine Translation (MT)
     - Speech-To-Text Translation (STT)
-    - Multilingual Speech & Language Processing Tasks
-       
-   which presently are currently practivcally unavailable, or useless due to extreme data-scarce setting.
-   
+    - Multilingual Speech & Language Processing Tasks  
   - serve as benchmark for academic and industry tools. We will create training/development/test splits for all task in consideration.
     
 ### Languages
 
 <div align="justify">
-  <p>For our long term goal, we want to create/gather resources for all seventy-two (72) languages spoken in Zambia. In the immediate terms, we are focussing on the seven (7) main languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
+  <p>For our long term goal, we want to create/gather resources for all seventy-two (72) languages spoken in Zambia. In the medium term, we are focussing on the seven (7) main languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
 </div>
 
 ### Report
