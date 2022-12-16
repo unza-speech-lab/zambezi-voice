@@ -51,7 +51,7 @@
         <td>1</td>
         <td>Nyanja</td>
         <td>nya</td>
-        <td>9127</td>
+        <td>9167</td>
         <td>25</td>
         <td>12</td>
         <td>3</td>
