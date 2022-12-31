@@ -26,7 +26,7 @@
 
 ### Report
 
-#### **Labelled Datasets
+#### Labelled Datasets
 
 <div class="tg-wrap" align="left">
   <table>
@@ -59,8 +59,8 @@
         <td>3</td>
         <td>Tonga</td>
         <td>toi</td>
-        <td>6544</td>
-        <td>15</td>
+        <td>9354</td>
+        <td>22</td>
         <td>9</td>
         <td>5</td>
         <td>4</td>
