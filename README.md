@@ -137,9 +137,9 @@
         <th>Item</th>
         <th>Lang</th>
         <th>Code</th>
-        <th>No. of audio files</th>
-        <th>No. of hours</th>
-        <th>File</th>
+        <th>No. of Audio Files</th>
+        <th>No. of Hours</th>
+        <th>Zipped File</th>
       </tr>
     </thead>
     <tbody>
