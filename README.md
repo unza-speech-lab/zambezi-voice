@@ -185,7 +185,7 @@
       </tr>
     </tbody>
   </table>
-  <p>*Last Updated: <strong>12/13/2022</strong></p>
+  <p>*Last Updated: <strong>25/01/2023</strong></p>
 </div>
 
 ### 5. Team
