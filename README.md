@@ -1,12 +1,12 @@
 ## Zambezi Voice
 
-### Introduction
+### 1. Introduction
 
 <div align="justify">
 <p>The Zambezi Voice project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable and foster the development of speech-based systems like speech recognition (ASR), machine translation (MT), speech-to-text (STT) translation for low-resourced Zambian languages.</p>
 </div>
 
-### Objectives
+### 2. Objectives
 <div align="justify">
   <p> To build speech and language data resources for under-resourced languages of Zambia that will:.</p>
 </div>
@@ -18,15 +18,15 @@
     - Multilingual Speech & Language Processing Tasks  
   - serve as benchmark for academic and industry tools. We will create training/development/test splits for all task in consideration.
     
-### Languages
+### 3. Languages
 
 <div align="justify">
   <p>For our long term goal, we want to create/gather resources for all seventy-two (72) languages spoken in Zambia. In the medium term, we are focussing on the seven (7) main languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
 </div>
 
-### Dataset
+### 4. Dataset
 
-#### Labelled Datasets
+#### 4.1. Labelled Datasets
 
 <div class="tg-wrap" align="left">
   <table>
@@ -128,7 +128,7 @@
 
 
 
-#### Unlabelled Radio Broadcast Audio Collections
+#### 4.2. Unlabelled Radio Broadcast Audio Collections
 
 <div class="tg-wrap" align="left">
   <table>
@@ -188,13 +188,13 @@
   <p>*Last Updated: <strong>12/13/2022</strong></p>
 </div>
 
-### Team
+### 5. Team
 
   - [Claytone Sikasote](https://csikasote.github.io) - [Lead Researcher]
   - Mofya Phiri 
   - Dr. Mayumbo Nyirenda 
 
-### Contact
+### 6. Contact
 Please feel free to drop us an email at `zambezivoice@gmail.com` or `claytonsikasote@gmail.com` if you would like to have a discussion on this work. We invite contributors!
 
 ### License
