@@ -26,7 +26,7 @@
 
 ### 4. Dataset
 
-#### 4.1. Labelled Datasets
+#### 4.1. Labelled Datasets [Read speech styled]
 
 <div class="tg-wrap" align="left">
   <table>
@@ -128,7 +128,7 @@
 
 
 
-#### 4.2. Unlabelled Radio Broadcast Audio Collections
+#### 4.2. Unlabelled Audio Collections [Radio broadcast styled]
 
 <div class="tg-wrap" align="left">
   <table>
@@ -190,7 +190,7 @@
 
 ### 5. Team
 
-  - [Claytone Sikasote](https://csikasote.github.io) - [Lead Researcher]
+  - [Claytone Sikasote](https://csikasote.github.io) [Lead]
   - Mofya Phiri 
   - Dr. Mayumbo Nyirenda 
 
