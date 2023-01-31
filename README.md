@@ -139,7 +139,7 @@
         <th>Code</th>
         <th>No. of Audio Files</th>
         <th>No. of Hours</th>
-        <th>Zipped File</th>
+        <th>Link</th>
       </tr>
     </thead>
     <tbody>
