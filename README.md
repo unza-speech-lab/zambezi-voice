@@ -210,4 +210,4 @@
 Please feel free to drop us an email at `zambezivoice@gmail.com` or `claytonsikasote@gmail.com` if you would like to have a discussion on this work. We invite contributors!
 
 ### License
-The data contained herein are publicly available under the MIT License. See [LICENSE](https://github.com/unza-speech-lab/zambezi-voice/blob/main/LICENSE) for further details.
+The data contained herein is publicly available under the MIT License. See [LICENSE](https://github.com/unza-speech-lab/zambezi-voice/blob/main/LICENSE) for further details.
