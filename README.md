@@ -46,7 +46,7 @@
     <tbody>
       <tr>
         <td>1</td>
-        <td>Nyanja</td>
+        <td><a href="https://github.com/unza-speech-lab/zambezi-voice/tree/main/nyanja">Nyanja</a></td>
         <td>nya</td>
         <td>9167</td>
         <td>25</td>
@@ -57,7 +57,7 @@
       </tr>
       <tr>
         <td>3</td>
-        <td>Tonga</td>
+        <td><a href="https://github.com/unza-speech-lab/zambezi-voice/tree/main/tonga">Tonga</a></td>
         <td>toi</td>
         <td>9354</td>
         <td>22</td>
@@ -68,7 +68,7 @@
       </tr>
       <tr>
         <td>2</td>
-        <td>Lozi</td>
+        <td><a href="https://github.com/unza-speech-lab/zambezi-voice/tree/main/lozi">Lozi</a></td>
         <td>loz</td>
         <td>2924</td>
         <td>6</td>
@@ -79,7 +79,7 @@
       </tr>
       <tr>
         <td>4</td>
-        <td>Bemba</td>
+        <td><a href="https://github.com/csikasote/BembaSpeech">Bemba</a></td>
         <td>bem</td>
         <td>14438</td>
         <td>24</td>
