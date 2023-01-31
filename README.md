@@ -21,7 +21,7 @@
 ### 3. Languages
 
 <div align="justify">
-  <p>For our long term goal, we want to create/gather resources for all seventy-two (72) languages spoken in Zambia. In the medium term, we are focussing on the seven (7) main languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
+  <p>For our long term goal, we want to create/gather resources for all seventy-two (72) languages spoken in Zambia. In the medium term, we are focussing on the seven (7) main local languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
 </div>
 
 ### 4. Datasets
