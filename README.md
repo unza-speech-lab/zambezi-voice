@@ -177,11 +177,11 @@
       </tr>
       <tr>
         <td>5</td>
-        <td>Lunda</td>
+        <td><a href="">Lunda</a></td>
         <td>lun</td>
         <td>13424</td>
         <td>20</td>
-        <td>-</td>
+        <td><a href="">Download</a></td>
       </tr>
     </tbody>
   </table>
