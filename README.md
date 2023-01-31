@@ -12,7 +12,7 @@
 </div>
 
   - enable development of speech and language technologies like:
-    - Automatic Speech Recognition (ASR)
+    - Speech Recognition (ASR)
     - Machine Translation (MT)
     - Speech Translation (ST)
     - Multilingual Speech Recognition  
