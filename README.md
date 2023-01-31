@@ -81,11 +81,11 @@
         <td>4</td>
         <td>Bemba</td>
         <td>bem</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>14438</td>
+        <td>24</td>
+        <td>17</td>
+        <td>9</td>
+        <td>8</td>
         <td>ASR</td>
       </tr>
       <tr>
