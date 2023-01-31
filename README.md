@@ -179,8 +179,8 @@
         <td>5</td>
         <td>Lunda</td>
         <td>lun</td>
-        <td>-</td>
-        <td>-</td>
+        <td>13424</td>
+        <td>20</td>
         <td>-</td>
       </tr>
     </tbody>
