@@ -14,8 +14,8 @@
   - enable development of speech and language technologies like:
     - Automatic Speech Recognition (ASR)
     - Machine Translation (MT)
-    - Speech-To-Text Translation (STT)
-    - Multilingual Speech & Language Processing Tasks  
+    - Speech Translation (ST)
+    - Multilingual Speech Recognition  
   - serve as benchmark for academic and industry tools. We will create training/development/test splits for all task in consideration.
     
 ### 3. Languages
