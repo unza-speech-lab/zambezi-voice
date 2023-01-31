@@ -3,7 +3,7 @@
 ### 1. Introduction
 
 <div align="justify">
-<p>The Zambezi Voice project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable and foster the development of speech-based systems like speech recognition (ASR), machine translation (MT), speech-to-text (STT) translation for low-resourced Zambian languages.</p>
+<p>The Zambezi Voice project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable and foster the development of speech-based systems like speech recognition (ASR), machine translation (MT), speech-to-text (STT) translation for under-resourced Zambian languages.</p>
 </div>
 
 ### 2. Objectives
@@ -16,7 +16,7 @@
     - Machine Translation (MT)
     - Speech Translation (ST)
     - Multilingual Speech Recognition  
-  - serve as benchmark for academic and industry tools. We will create training/development/test splits for all task in consideration.
+  - serve as benchmark for academic and industry tools on Zambian languages.
     
 ### 3. Languages
 
