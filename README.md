@@ -203,8 +203,11 @@
 ### 5. Team
 
   - [Claytone Sikasote](https://csikasote.github.io) [Lead]
+  - Kalinda Siaminwe
+  - Stanly Mwape
+  - Bangiwe Zulu
   - Mofya Phiri 
-  - Dr. Mayumbo Nyirenda 
+  - Mayumbo Nyirenda, PhD 
 
 ### 6. Contact
 Please feel free to drop us an email at `zambezivoice@gmail.com` or `claytonsikasote@gmail.com` if you would like to have a discussion on this work. We invite contributors!
