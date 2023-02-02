@@ -203,9 +203,6 @@
 ### 5. Team
 
   - [Claytone Sikasote](https://csikasote.github.io) [Lead]
-  - Kalinda Siaminwe
-  - Stanly Mwape
-  - Bangiwe Zulu
   - Mofya Phiri 
   - Mayumbo Nyirenda, PhD 
 
