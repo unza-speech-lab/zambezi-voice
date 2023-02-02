@@ -187,13 +187,13 @@
       </tr>
       <tr>
         <td>5</td>
-        <td><a href="">Lunda</a></td>
+        <td><a href="https://zenodo.org/record/7589496#.Y9uJPBxBy0k">Lunda</a></td>
         <td>lun</td>
         <td>50</td>
         <td>39</td>
         <td>13424</td>
         <td>20</td>
-        <td><a href="">Download</a></td>
+        <td><a href="https://zenodo.org/record/7589496/files/lun.zip?download=1">Download</a></td>
       </tr>
     </tbody>
   </table>
