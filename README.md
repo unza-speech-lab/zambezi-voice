@@ -81,10 +81,10 @@
         <td>4</td>
         <td><a href="https://github.com/csikasote/BembaSpeech">Bemba</a></td>
         <td>bem</td>
-        <td>14438</td>
-        <td>24</td>
-        <td>17</td>
-        <td>9</td>
+        <td>15500</td>
+        <td>26</td>
+        <td>18</td>
+        <td>10</td>
         <td>8</td>
         <td>ASR</td>
       </tr>
