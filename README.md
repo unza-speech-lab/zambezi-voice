@@ -3,7 +3,7 @@
 ### 1. Introduction
 
 <div align="justify">
-<p>The Zambezi Voice project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable and foster research and development of language technology systems for under-resourced native languages of Zambia.</p>
+<p>The [Zambezi Voice](https://arxiv.org/pdf/2306.04428.pdf) project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable and foster research and development of language technology systems for under-resourced native languages of Zambia.</p>
 </div>
 
 ### 2. Objectives
