@@ -46,7 +46,7 @@
     <tbody>
       <tr>
         <td>1</td>
-        <td><a href="https://github.com/unza-speech-lab/zambezi-voice/tree/main/nyanja">Nyanja</a></td>
+        <td><a href="https://github.com/unza-speech-lab/zambezi-voice-nyanja">Nyanja</a></td>
         <td>nya</td>
         <td>9167</td>
         <td>25</td>
