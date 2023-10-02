@@ -203,6 +203,7 @@
   - Mayumbo Nyirenda, PhD 
 
 ### 5. Citation
+If you use this speech dataset in your project or research, please consider citing as follows:
     
     @inproceedings{sikasote23_interspeech,
       author={Claytone Sikasote and Kalinda Siaminwe and Stanly Mwape and Bangiwe Zulu and Mofya Phiri and Martin Phiri and David Zulu and Mayumbo Nyirenda and Antonios Anastasopoulos},
