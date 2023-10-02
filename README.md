@@ -22,9 +22,9 @@
   <p>The long term goal is to curate language data resources resources for all seventy-two (72) languages spoken in Zambia. In the medium term, we are focussing on the seven (7) main local languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
 </div>
 
-### 4. Datasets
+### 3. Datasets
 
-#### 4.1. Labelled Datasets [Read speech styled]
+#### 3.1. Labelled Datasets [Read speech styled]
 
 <div class="tg-wrap" align="left">
   <table>
@@ -124,7 +124,7 @@
   <p>*Last Updated: <strong>27/12/2022</strong></p>
 </div>
 
-#### 4.2. Unlabelled Audio Collections [Radio broadcast styled]
+#### 3.2. Unlabelled Audio Collections [Radio broadcast styled]
 
 <div class="tg-wrap" align="left">
   <table>
@@ -196,13 +196,13 @@
   <p>*Last Updated: <strong>31/01/2023</strong></p>
 </div>
 
-### 5. Team
+### 4. Team
 
   - [Claytone Sikasote](https://csikasote.github.io) [Lead]
   - Mofya Phiri 
   - Mayumbo Nyirenda, PhD 
 
-### 6. Citation
+### 5. Citation
     
     @inproceedings{sikasote23_interspeech,
       author={Claytone Sikasote and Kalinda Siaminwe and Stanly Mwape and Bangiwe Zulu and Mofya Phiri and Martin Phiri and David Zulu and Mayumbo Nyirenda and Antonios Anastasopoulos},
@@ -213,5 +213,5 @@
       doi={10.21437/Interspeech.2023-1979}
     }
 
-### 7. Contact
+### 6. Contact
 Please feel free to drop us an email at `zambezivoice@gmail.com` or `claytonsikasote@gmail.com` if you would like to have a discussion on this work. We invite contributors!
