@@ -3,10 +3,10 @@
 ### 1. Introduction
 
 <div align="justify">
-  <p>The <a href="https://arxiv.org/pdf/2306.04428.pdf">Zambezi Voice</a> project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable and foster research and development of language technology systems for under-resourced native languages of Zambia.</p>
+  <p>The <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2023/sikasote23_interspeech.pdf">Zambezi Voice</a> project is an on-going effort by the University of Zambia speech and language research group  to develop/create speech and language data resources that would enable and foster research and development of language technology systems for under-resourced native languages of Zambia.</p>
 </div>
 
-### 2. Objectives
+### 2. Objective
 <div align="justify">
   <p> To build speech and language data resources for under-resourced languages of Zambia that will:.</p>
 </div>
@@ -126,8 +126,6 @@
   <p>*Last Updated: <strong>27/12/2022</strong></p>
 </div>
 
-
-
 #### 4.2. Unlabelled Audio Collections [Radio broadcast styled]
 
 <div class="tg-wrap" align="left">
@@ -206,8 +204,16 @@
   - Mofya Phiri 
   - Mayumbo Nyirenda, PhD 
 
+### Citation
+    
+    @inproceedings{sikasote23_interspeech,
+      author={Claytone Sikasote and Kalinda Siaminwe and Stanly Mwape and Bangiwe Zulu and Mofya Phiri and Martin Phiri and David Zulu and Mayumbo Nyirenda and Antonios Anastasopoulos},
+      title={{Zambezi Voice: A Multilingual Speech Corpus for Zambian Languages}},
+      year=2023,
+      booktitle={Proc. INTERSPEECH 2023},
+      pages={3984--3988},
+      doi={10.21437/Interspeech.2023-1979}
+    }
+
 ### 6. Contact
 Please feel free to drop us an email at `zambezivoice@gmail.com` or `claytonsikasote@gmail.com` if you would like to have a discussion on this work. We invite contributors!
-
-### License
-The data contained herein is publicly available under the MIT License. See [LICENSE](https://github.com/unza-speech-lab/zambezi-voice/blob/main/LICENSE) for further details.
