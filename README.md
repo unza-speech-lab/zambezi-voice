@@ -8,10 +8,10 @@
 
 ### 2. Objective
 <div align="justify">
-  <p> To build speech and language data resources for under-resourced languages of Zambia that will:.</p>
+  <p> To build speech and language data resources for under-resourced languages of Zambia that will:</p>
 </div>
 
-  - enable development of speech and language technologies:
+  - enable the development of speech and language technologies:
     - Speech Recognition (ASR)
     - Machine Translation (MT)
     - Speech Translation (ST)
@@ -19,7 +19,7 @@
   - serve as benchmark for academic and industry tools on Zambian languages.
 
 <div align="justify">
-  <p>The long term goal is to curate language data resources resources for all seventy-two (72) languages spoken in Zambia. In the medium term, we are focussing on the seven (7) main local languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
+  <p>The long-term goal is to curate language data resources resources for all seventy-two (72) languages spoken in Zambia. In the medium term, we are focussing on the seven (7) main local languages spoken in Zambia: Bemba, Nyanja, Tonga, Lozi, Kaonde, Lunda and Luvale.</p>
 </div>
 
 ### 3. Datasets
@@ -121,7 +121,7 @@
       </tr>
     </tbody>
   </table>
-  <p>*Last Updated: <strong>27/12/2022</strong></p>
+  <p>*Last Updated: <strong>8/10/2024</strong></p>
 </div>
 
 #### 3.2. Unlabelled Audio Collections [Radio broadcast styled]
