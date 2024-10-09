@@ -51,7 +51,7 @@
         <td>12</td>
         <td>3</td>
         <td>7</td>
-        <td>ASR, MT, ST</td>
+        <td>ASR</td>
       </tr>
       <tr>
         <td>3</td>
